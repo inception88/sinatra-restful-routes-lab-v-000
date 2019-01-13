@@ -1,2 +1,1 @@
-class Recipe < ActiveRecord::Base
-end
+q#Placeholder for a model
